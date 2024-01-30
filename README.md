@@ -10,5 +10,5 @@
 <br>
 <p>Aplicação bem dinâmica.</p>
 
-[image](https://github.com/Lucianagomes1/Coversor-de-moedas/assets/88381890/d1bc0013-6228-4a33-905e-59280fe387bb)
+<img src = "https://github.com/Lucianagomes1/Coversor-de-moedas/assets/88381890/d1bc0013-6228-4a33-905e-59280fe387bb">
 
