@@ -10,7 +10,7 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="style.css" />
-
+    
     <title>Conversor de moeda</title>
 
   </head>
@@ -30,16 +30,16 @@
 
       <label>
         Converter <b>para</b>:
-        <select>
-          <option>US$ Americano</option>
-          <option>€ Euro</option>
+        <select class="Euro">
+          <option value="dolar">US$ Americano</option>
+          <option value="euro">€ Euro</option>
         </select>
       </label>
 
       <label>
         Valor:
-        <input placeholder="Digite o Valor" />
-        <button>Converter</button>
+        <input class="value" placeholder="Digite o Valor" />
+        <button class="butto">Converter</button>
       </label>
 
       <section>
@@ -49,16 +49,17 @@
           <p class="par2">R$ 0</p>
         </div>
 
-        <img class="imagem" src="./assets/Vector.png" alt="" />
+        <img src="./assets/Vector.png" alt="" />
 
-        <div class="divu"
-          <img src="./assets/estados-unidos (1) 1.png" alt="" />
-          <p class="par1">Dolar</p>
-          <p class="par2">US$ 0</p>
+        <div class="divu">
+          <img  class="imagem1" src="./assets/estados-unidos (1) 1.png" alt="">
+          <p class="par4">Dolar</p>
+          <p class="par3">US$ 0</p>
         </div>
 
       </section>
 
     </main>
   </body>
+  <script src="./scripts.js"></script>
 </html>

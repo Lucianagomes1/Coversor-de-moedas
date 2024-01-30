@@ -90,7 +90,7 @@ section{
     align-items: center;
 }
 
-.imagem{
+.imagem1 {
     margin: 15px 0;
 }
 
@@ -100,12 +100,12 @@ section{
     align-items: center;
     gap: 4px;
 }
-.par1{
+.par1, .par4{
     color: #777777;
     font-size: 14px;
 }
 
-.par2{
+.par2, .par3{
     color: #555555;
     font-weight: 700;
     font-size: 20px;
